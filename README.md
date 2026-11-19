@@ -4,7 +4,7 @@ purpose; add a LinkedIn or a public email below if you want one. -->
 
 ### Rennie Olajide
 
-Security analyst in Toronto with about five and a half years across security operations, incident response and vulnerability management. Most of my day is alert triage, phishing and BEC investigations, and detection tuning in Microsoft Sentinel, Splunk and Datadog. When a task comes back every week, I automate it with Power Automate or AI tooling.
+Security analyst in Calgary with about five and a half years across security operations, incident response and vulnerability management. Most of my day is alert triage, phishing and BEC investigations, and detection tuning in Microsoft Sentinel, Splunk and Datadog. When a task comes back every week, I automate it with Power Automate or AI tooling.
 
 GIAC certified: GCIH, GSEC and GFACT.
 
